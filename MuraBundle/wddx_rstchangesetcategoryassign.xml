@@ -1,1 +1,0 @@
-<wddxPacket version='1.0'><header/><data><recordset rowCount='0' fieldNames='SITEID,CATEGORYID,CHANGESETID,ASSIGNMENTID' type='coldfusion.sql.QueryTable'><field name='SITEID'></field><field name='CATEGORYID'></field><field name='CHANGESETID'></field><field name='ASSIGNMENTID'></field></recordset></data></wddxPacket>
