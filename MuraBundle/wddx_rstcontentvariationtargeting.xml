@@ -1,0 +1,1 @@
+<wddxPacket version='1.0'><header/><data><recordset rowCount='0' fieldNames='TARGETINGID,SITEID,INITJS,TARGETINGJS,CONTENTID' type='coldfusion.sql.QueryTable'><field name='TARGETINGID'></field><field name='SITEID'></field><field name='INITJS'></field><field name='TARGETINGJS'></field><field name='CONTENTID'></field></recordset></data></wddxPacket>

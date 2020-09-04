@@ -14,10 +14,9 @@ A site bundle is a convenient way to share a custom theme and populate the site 
 
 ## How To Install A Mura CMS Theme Bundle
 
-1. From the Github project page, click the green **Code** button, then select  **Download ZIP** located on the top-right region of the page.
+1. From the Github project page, click the green **Code** button, then select  [**Download ZIP**](https://github.com/digitalminellc/mura-bundle-bootstrap4/archive/master.zip) located on the top-right region of the page.
 
-2. Unzip the contents to reveal a file named as:
-    **MuraBundle\_{ThemeName}\_YYYY\_MM\_DD\_HH\_MM.zip**
+2. Unzip the contents to reveal a file named as: `mura-bundle-bootstrap4-master/MuraBundle.zip`
 
 3. Login to the back-end Admin area of the site where you wish to deploy the bundle.
 
@@ -56,10 +55,4 @@ A site bundle is a convenient way to share a custom theme and populate the site 
 
 ## License
 
-Copyright [digitalmine LLC](https://www.digitalmine.com) 2020.
-
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this work except in compliance with the License. You may obtain a copy of the License in the LICENSE file, or at:
-
-[http://www.apache.org/licenses/LICENSE-2.0]
-
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+[MIT](LICENSE.md)
